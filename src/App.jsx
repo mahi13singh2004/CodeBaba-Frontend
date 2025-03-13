@@ -35,7 +35,7 @@ Then click the "Review Code" button to get an AI-powered code review.
   async function reviewCode() {
     try {
       setIsLoading(true)
-      const response = await axios.post('http://localhost:3000/ai/get-review', { code })
+      const response = await axios.post(`${import.meta.env.VITE_API_URL}ai/get-review`, { code })
       setReview(response.data)
     } catch (err) {
       console.error('Failed to get code review:', err)
