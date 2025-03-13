@@ -12,7 +12,7 @@ function App() {
   const [code, setCode] = useState(`function sum() {
   return 1 + 1
 }`)
-  const [review, setReview] = useState(`# Welcome to Code Review! 👋
+  const [review, setReview] = useState(`# Welcome to CodeBaba! 👋
 
 Write or paste your code in the editor on the left side.
 Then click the "Review Code" button to get an AI-powered code review.

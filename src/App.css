@@ -16,7 +16,7 @@ main {
   padding: 0;
   display: flex;
   background-color: #1e1e1e;
-  flex-direction: row; /* Default for desktop */
+  flex-direction: row; 
 }
 
 main .left,
@@ -187,7 +187,7 @@ main .right li {
   main .right {
     flex: none;
     width: 100%;
-    min-height: 50vh; /* Give each section minimum height on mobile */
+    min-height: 50vh;
   }
 
   main .left {
@@ -247,10 +247,6 @@ main .right li {
     font-size: 0.8rem;
   }
 }
-
-/* Your existing CSS remains unchanged until the end... */
-
-/* Add these at the bottom of App.css */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -294,4 +290,3 @@ main .right li {
   animation: slideUp 0.5s ease-out;
 }
 
-/* Note: transition-transform is a Tailwind utility and doesn't need custom definition */
