@@ -46,8 +46,8 @@ Then click the "Review Code" button to get an AI-powered code review.
   }
 
   return (
-    <main>
-      <div className="left">
+    <main className="animate-fade-in">
+      <div className="left animate-slide-up">
         <div className="code">
           <Editor
             value={code}
@@ -65,12 +65,12 @@ Then click the "Review Code" button to get an AI-powered code review.
         <button 
           onClick={reviewCode}
           disabled={isLoading}
-          className="review"
+          className="review transition-transform hover:scale-105 active:scale-95"
         >
           {isLoading ? 'Reviewing...' : 'Review Code'}
         </button>
       </div>
-      <div className="right">
+      <div className="right animate-fade-in-right">
         <Markdown rehypePlugins={[rehypeHighlight]}>
           {review}
         </Markdown>
