@@ -1,12 +1,38 @@
-# React + Vite
+# CodeBaba 👨‍💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered code editor that helps you detect bugs and suggests real-time fixes as you type.
 
-Currently, two official plugins are available:
+## 🗓️ Project Timeline
+**November 2024**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** ReactJS, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **AI Integration:** Gemini API (Google AI)  
+- **Code Editing:** PrismJS, react-simple-code-editor  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🔍 **Real-Time Bug Detection:**  
+  Integrated with Gemini API to analyze code and suggest instant fixes as you type.
+
+- 🎨 **Syntax Highlighting:**  
+  Utilizes PrismJS to provide language-specific syntax highlighting for a smoother developer experience.
+
+- 📝 **Live Editing:**  
+  Implemented using `react-simple-code-editor` to allow seamless, interactive code writing and testing.
+
+- 💻 **Responsive & Developer-Friendly UI:**  
+  Tailwind CSS ensures a clean, minimalistic, and responsive interface for all screen sizes.
+
+## 🧑‍💻 Author
+
+**Mahi Singh**  
+Pre-final year @ Visvesvaraya Technological University
+
+---
+
+Pull requests and contributions are welcome! Happy coding! 🚀
+
+
