@@ -26,6 +26,10 @@ An AI-powered code editor that helps you detect bugs and suggests real-time fixe
 - 💻 **Responsive & Developer-Friendly UI:**  
   Tailwind CSS ensures a clean, minimalistic, and responsive interface for all screen sizes.
 
+## SnapShots
+# Demo Screenshot
+![Home View](https://drive.google.com/file/d/1u0dT2WzGQXiFX-rqLhVUJWrdkkHhfOFM/view?usp=sharing)  
+
 ## 🧑‍💻 Author
 
 **Mahi Singh**  
