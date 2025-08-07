@@ -28,7 +28,7 @@ An AI-powered code editor that helps you detect bugs and suggests real-time fixe
 
 ## SnapShots
 # Demo Screenshot
-![Home View](https://drive.google.com/file/d/1u0dT2WzGQXiFX-rqLhVUJWrdkkHhfOFM/view?usp=sharing)  
+![Alt Text](https://drive.google.com/uc?export=view&id=1u0dT2WzGQXiFX-rqLhVUJWrdkkHhfOFM)
 
 ## 🧑‍💻 Author
 
